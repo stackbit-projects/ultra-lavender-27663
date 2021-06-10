@@ -27,11 +27,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "label": "Get Started",
-                "url": "/thank-you",
-                "style": "primary"
             }
         ]
     },
